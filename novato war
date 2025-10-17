@@ -3,9 +3,9 @@ tipedefe struct Territorio{
     char Cor{10};
     int Tropa;
 }Territorio;
-int main(){
-    Aluno aluno1 = {"João", 20, 8.5};
-    printf("Aluno: %s
-    Idade: %d
-    Média: %.2f)
+int main(Teritorio){
+    stcanf (%s, %d, %.2f)
+    printf("Teritorio: %s
+    Cor: %d
+    Tropa: %.2f)
 }
