@@ -1,11 +1,11 @@
 #inclube <stdio.h>
-main(){
+main(void){
     tipedefe struct Territorio{
         char Teritorio[30];
         char Cor{10};
         int Tropa;
     }Territorio;
-    int main(Teritorio){
+    int main(){
         stcanf (%s, %d, %.2f)
         printf("Teritorio: %s
         Cor: %d
