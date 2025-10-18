@@ -1,11 +1,13 @@
-tipedefe struct Territorio{
-    char Teritorio[30];
-    char Cor{10};
-    int Tropa;
-}Territorio;
-int main(Teritorio){
-    stcanf (%s, %d, %.2f)
-    printf("Teritorio: %s
-    Cor: %d
-    Tropa: %.2f)
-}
+#inclube <stdio.h>
+main(){
+    tipedefe struct Territorio{
+        char Teritorio[30];
+        char Cor{10};
+        int Tropa;
+    }Territorio;
+    int main(Teritorio){
+        stcanf (%s, %d, %.2f)
+        printf("Teritorio: %s
+        Cor: %d
+        Tropa: %.2f)
+    }}
