@@ -1,10 +1,17 @@
 #inclube <stdio.h>
+#inclube <conio.h>
+"LISTA DE CARAQUETERISTICAS"
 main(void){
+   
     tipedefe struct Territorio{
         char Teritorio[30];
         char Cor{10};
         int Tropa;
     }Territorio;
+
+"MONTAR PROCESO DE ENTRADA E SAIDA"
+'REGINTRO DE INFORMAÇÃO REGISTADA'
+
     int main(){
         stcanf (%s, %d, %.2f)
         printf("Teritorio: %s
