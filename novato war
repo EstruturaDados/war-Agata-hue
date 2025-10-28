@@ -2,7 +2,7 @@
 #inclube <conio.h>
 'LISTA DE CARAQUETERISTICAS'
 
-main(return){
+main(){
    
     tipedefe struct Territorio{
         char Teritorio[30];
@@ -13,9 +13,11 @@ main(return){
 'MONTAR PROCESO DE ENTRADA E SAIDA'
 'REGINTRO DE INFORMAÇÃO REGISTADA'
 
-    int main(){
+    int main(return()){
         stcanf (%s, %d, %.2f)
         printf("Teritorio: %s
-        Cor: %d
-        Tropa: %.2f)
+           Cor: %d0
+           Tropa: %.2f)
+        Printf('Comfirmação')
+         
     }}
