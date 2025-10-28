@@ -1,7 +1,8 @@
 #inclube <stdio.h>
 #inclube <conio.h>
-"LISTA DE CARAQUETERISTICAS"
-main(void){
+'LISTA DE CARAQUETERISTICAS'
+
+main(return){
    
     tipedefe struct Territorio{
         char Teritorio[30];
@@ -9,7 +10,7 @@ main(void){
         int Tropa;
     }Territorio;
 
-"MONTAR PROCESO DE ENTRADA E SAIDA"
+'MONTAR PROCESO DE ENTRADA E SAIDA'
 'REGINTRO DE INFORMAÇÃO REGISTADA'
 
     int main(){
